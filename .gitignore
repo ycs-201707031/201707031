@@ -1,6 +1,16 @@
+#파일명은 상관 없고, 확장자가 text면 관리x
+
+*.test
+
+*.work
+jinwoo.*
+
+
+
 # History files
 .Rhistory
 .Rapp.history
+
 
 # Session Data files
 .RData
